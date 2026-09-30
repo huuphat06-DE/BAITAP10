@@ -13,7 +13,7 @@ Dự án được chia thành 2 thư mục tương ứng với 2 thư viện JWT
    - Sử dụng thư viện `com.nimbusds:nimbus-jose-jwt`.
    - Bài tập nâng cao thay thế thư viện `jjwt` bằng thư viện Nimbus.
 
-## 🛠️ Yêu cầu hệ thống (Prerequisites)
+## Yêu cầu hệ thống (Prerequisites)
 
 - **Java**: 17 hoặc 21
 - **Database**: MySQL Server
