@@ -2,7 +2,7 @@
 
 Dự án này bao gồm hai ví dụ về cách triển khai xác thực (Authentication) và ủy quyền (Authorization) bằng JSON Web Token (JWT) trong **Spring Boot 3** và **Spring Security 6**.
 
-## 📂 Cấu trúc dự án
+##  Cấu trúc dự án
 
 Dự án được chia thành 2 thư mục tương ứng với 2 thư viện JWT khác nhau:
 
@@ -19,7 +19,7 @@ Dự án được chia thành 2 thư mục tương ứng với 2 thư viện JWT
 - **Database**: MySQL Server
 - **Công cụ build**: Maven (có thể dùng Maven Wrapper `mvnw` đi kèm sẵn trong dự án)
 
-## 🚀 Hướng dẫn cài đặt và khởi chạy
+##  Hướng dẫn cài đặt và khởi chạy
 
 ### Bước 1: Cấu hình cơ sở dữ liệu (Database)
 Cả hai project đều kết nối tới MySQL database tên là `jwt_springboot3`.
